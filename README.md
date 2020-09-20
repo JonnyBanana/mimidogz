@@ -14,3 +14,12 @@ Mimikatz was written by Benjamin Delpy
 https://github.com/gentilkiwi/mimikatz
 
 Invoke-Mimikatz.ps1 was written by the PowerSploitMafia team https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
